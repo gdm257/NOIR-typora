@@ -1116,7 +1116,7 @@ code {
 .cm-s-inner .cm-comment,
 .cm-s-inner.cm-comment {
   /*     color: var(--code-orange-color) !important; */
-  color: var(--code-grey-color) !important;
+  color: rgb(152, 195, 121) !important;
 }
 
 .cm-s-inner .cm-header,
