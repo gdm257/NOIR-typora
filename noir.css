@@ -6,7 +6,7 @@
 :root {
   /* dark color for background*/
   /* default color */
-  --bg-color1: #292A2B;
+  --bg-color1: #444444;
   /* for most panel, context, header, etc */
   --bg-color2: #292A2B;
   /* for toc and table edit panel */
