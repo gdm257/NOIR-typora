@@ -1316,7 +1316,7 @@ pre.md-meta-block:active {
   visibility: visible;
   opacity: 1;
   transition: 0.3s;
-  max-width: 1600px;
+  max-width: 980px;
   padding-left: 45px;
   padding-right: 35px;
 }
