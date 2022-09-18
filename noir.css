@@ -1,3 +1,8 @@
+/* Show files and outline at the same time
+ 同时显示文件列表与大纲 */
+@import "NOIR/bothview.css";
+
+
 :root {
   /* dark color for background*/
   /* default color */
