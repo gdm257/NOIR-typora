@@ -115,28 +115,28 @@
   font-family: "Open Sans";
   font-style: normal;
   font-weight: normal;
-  src: local("Open Sans Regular"), url("./panda/400.woff") format("woff");
+  src: local("Open Sans Regular"), url("./NOIR/400.woff") format("woff");
 }
 
 @font-face {
   font-family: "Open Sans";
   font-style: italic;
   font-weight: normal;
-  src: local("Open Sans Italic"), url("./panda/400i.woff") format("woff");
+  src: local("Open Sans Italic"), url("./NOIR/400i.woff") format("woff");
 }
 
 @font-face {
   font-family: "Open Sans";
   font-style: normal;
   font-weight: bold;
-  src: local("Open Sans Bold"), url("./panda/700.woff") format("woff");
+  src: local("Open Sans Bold"), url("./NOIR/700.woff") format("woff");
 }
 
 @font-face {
   font-family: "Open Sans";
   font-style: italic;
   font-weight: bold;
-  src: local("Open Sans Bold Italic"), url("./panda/700i.woff") format("woff");
+  src: local("Open Sans Bold Italic"), url("./NOIR/700i.woff") format("woff");
 }
 
 /* basic style */
@@ -145,7 +145,8 @@ html {
 }
 
 body {
-  font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial,
+  font-family: "Sarasa Mono SC", "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial,
+    "Microsoft YaHei Mono",
     sans-serif;
   color: var(--text-color1);
   background: var(--bg-color1);
